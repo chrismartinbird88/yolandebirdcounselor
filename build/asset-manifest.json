@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a816555.css",
+    "main.js": "/static/js/main.90d2e5a6.js",
+    "static/js/787.0bdac744.chunk.js": "/static/js/787.0bdac744.chunk.js",
+    "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/qualifications.webp": "/static/media/qualifications.6ac83fb112e259e71a0a.webp",
+    "static/media/stress.webp": "/static/media/stress.fbadadaee4fea3ea8f41.webp",
+    "static/media/brand-icons.woff2": "/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/depression.webp": "/static/media/depression.ec2e1c176de795bc7d52.webp",
+    "static/media/icons.woff": "/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/trauma.webp": "/static/media/trauma.ac3e5c24f5bebc5e12ca.webp",
+    "static/media/yolandebird.webp": "/static/media/yolandebird.bfc6c47612449dc84db3.webp",
+    "static/media/flags.png": "/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/anxiety.webp": "/static/media/anxiety.e2c86cbcf21325c7dcf8.webp",
+    "static/media/ptsd.webp": "/static/media/ptsd.778db18ca951aa6e0298.webp",
+    "static/media/outline-icons.woff": "/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "static/media/business-card.webp": "/static/media/business-card.c02c2673af9d50fd5d0f.webp",
+    "static/media/affiliations.webp": "/static/media/affiliations.0aadb10124f7a859ec3a.webp",
+    "static/media/relationship-issues.webp": "/static/media/relationship-issues.957155aaafa962217a21.webp",
+    "index.html": "/index.html",
+    "main.5a816555.css.map": "/static/css/main.5a816555.css.map",
+    "main.90d2e5a6.js.map": "/static/js/main.90d2e5a6.js.map",
+    "787.0bdac744.chunk.js.map": "/static/js/787.0bdac744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a816555.css",
+    "static/js/main.90d2e5a6.js"
+  ]
+}
