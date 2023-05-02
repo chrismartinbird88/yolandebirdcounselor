@@ -1,0 +1,222 @@
+body{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: #0979f5;
+}
+
+.navbar{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar a{
+    background-color: yellow;
+}
+
+.navbar .navbar-brand p{
+    font-size: 18pt;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#logo-text{
+    color:black;
+    font-size:20pt;
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    font-size: 2em;
+    text-align: center;
+}
+
+.sub-heading{
+    text-align: center;
+    font-size: 1.3ems;
+    color: white;
+}
+
+.title{
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    font-weight: bold;
+}
+
+.card{
+    background-color: yellow;
+    padding: 2%;
+    box-shadow: 5px 5px 5px 5px darkgrey;
+}
+
+.card-header{
+    box-shadow: none;
+}
+
+p{
+    font-size: 1.3em;
+}
+
+.card-header-title{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left:15%;
+}
+
+.card-image{
+    margin-left: 5%;
+    width: 90%;
+}
+
+.card-footer{
+    box-shadow: none;
+    border: none;
+}
+
+.card-footer a{
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.title{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+#bio{
+    vertical-align: middle;
+}
+
+.notification{
+    background-color: yellow;
+}
+
+ul li{
+    text-align: justify;
+    list-style: circle;
+}
+
+.tabs{
+    background-color: yellow;
+}
+
+#ba{
+    background-color: yellow;
+    color: black;
+    padding: 5%;
+    text-align: center;
+}
+
+#hon{
+    background-color: yellow;
+    color: black;   
+    padding: 5%;
+    text-align: center;
+}
+
+#hugenote{
+    background-color: yellow;
+    color: black;
+    padding: 5%;
+    text-align: center;
+}
+
+#human-resources{
+    background-color: yellow;
+    color: black;
+    padding: 5%;
+    text-align: center;
+}
+
+#various{
+    background-color: yellow;
+    color: black;
+    padding: 5%;
+    text-align: center;
+}
+
+dl{
+    text-align: left;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+dd{
+    font-size: 18px;
+}
+
+a {
+    font-size: 1.4em;
+}
+
+#relationship{
+    font-size: 20pt;
+}
+
+#depression{
+    font-size: 30pt;
+}
+
+.tile .is-parent .is-child .about{
+    background-color: yellow;
+}
+
+.contact{
+    background-color: #0979f5;
+}
+
+article{
+    color: black;
+    background-color: yellow;
+    width: 100%;
+    box-shadow: 5px 5px 5px 5px darkgray;
+    text-align: justify;
+    padding: 2%;
+}
+
+article img{
+    padding: 5px;
+}
+
+article h2{
+    color: black;
+}
+
+table{
+    font-size: 1.5em;
+    width: 100%;
+}
+
+table th{
+    text-align: center;
+}
+
+.card button{
+    font-weight: bolder;
+    font-size: 40pt;
+    width: 100%;
+    height: 400px;
+    padding: 1%;
+    background-color: transparent;
+    border-style: none;
+}
+
+.footer{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+.notfound{
+    font-size: 72pt;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
